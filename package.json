@@ -4,7 +4,7 @@
   "description": "Transform Visualization",
   "main": "index.js",
   "kibana": {
-    "version": "kibana"
+    "version": "5.1.2"
   },
   "scripts": {
     "lint": "eslint",
